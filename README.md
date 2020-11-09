@@ -1,2 +1,2 @@
 # HeyBabo
- Chat with your computer.
+ C# ile yazılmıştır.
