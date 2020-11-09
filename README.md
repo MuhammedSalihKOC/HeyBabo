@@ -1,2 +1,2 @@
 # HeyBabo
- C# ile yazılmıştır.
+Bu proje C# yazılım dili ile geliştirilmektedir.
